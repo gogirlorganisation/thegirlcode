@@ -16,9 +16,5 @@
 	min-height: 60vh;
 	background: rgba(69,163,229,1);
 	text-align: center;
-}
-
-.margin
-{
-	margin-top: 32px;
+	padding-top: 32px;
 }
